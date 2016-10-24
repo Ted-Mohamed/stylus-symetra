@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Ted-Mohamed/stylus-symetra/issues"
   },
-  "homepage": "https://github.com/Ted-Mohamed/stylus-symetra#readme"
+  "homepage": "https://github.com/Ted-Mohamed/stylus-symetra#readme",
+  "dependencies": {
+      "stylus": "*"
+  }
 }
