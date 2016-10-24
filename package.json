@@ -1,0 +1,22 @@
+{
+  "name": "stylus-symetra",
+  "version": "1.0.0",
+  "description": "Modular Scale for Stylus",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ted-Mohamed/stylus-symetra.git"
+  },
+  "keywords": [
+    "Modular",
+    "Scale"
+  ],
+  "author": "Mohamed Ted Meftah <contact@mohamed-ted.me> (http://mohamed-ted.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ted-Mohamed/stylus-symetra/issues"
+  },
+  "homepage": "https://github.com/Ted-Mohamed/stylus-symetra#readme"
+}
