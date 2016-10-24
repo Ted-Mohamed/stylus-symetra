@@ -1,1 +1,1 @@
-module.exports = require('lib/Symetra.js')
+module.exports = require('./lib/Symetra.js')

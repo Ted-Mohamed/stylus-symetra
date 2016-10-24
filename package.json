@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Modular Scale for Stylus",
   "scripts": {
-    "test": ""
+      "test": "stylus -u ./ < ./test/test.styl > ./test/test.css"
   },
   "repository": {
     "type": "git",
